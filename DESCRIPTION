@@ -1,0 +1,11 @@
+Package: rolldice
+Version: 0.1.0
+Title: Dice Roller for D&D
+Author: Aaron Cooley
+Description: Takes a Dungeons & Dragons style dice string and evaluates it
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+  stringr
+RoxygenNote: 7.1.1
